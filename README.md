@@ -52,6 +52,10 @@ Productivity Applications:
 Operating Systems:
 * Linux, UNIX administrator level.
 * BSD, Windows advanced user level.
+
+Workshops:
+* CodeRefinery Workshop (2022)
+
 ## Linguistic skills
 Spanish (Castellano). Native.
 
