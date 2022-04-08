@@ -85,7 +85,7 @@ Centro de Física de Materiales (CFM)
 Paseo Manuel de Lardizabal, 5 – E-20018 Donostia – San Sebastián (Gipuzkoa) – SPAIN
 * Postdoctoral Researcher From March 1 2022
 * Quantum Theory of Materials
-* Adviser Ion Errea
+* Adviser: Ion Errea
 ## Previous work experience
 Postdoctoral position at the Politecnico di Torino.
 * “Modellazione Computazionale di Interfacce Termiche in Materiali Nanocompositi”
