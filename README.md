@@ -76,7 +76,7 @@ Sede di Alessandria. Viale Teresa Michel, 5 15121 Alessandria. ITALIA
 * CHIM/07 - Fondamenti chimici delle tecnologie; (Area 0003 - Scienze chimiche).
 * Adviser/Supervisor: Alberto Fina
 ## Current position
-Post-Doctorate. March 2022
+Post-Doctorate. From March 2022
 
 Universidad del Pais Vasco, CSIC
 
