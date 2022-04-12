@@ -100,6 +100,8 @@ Ph.D. at Instituto de Ciencia de los Materiales de Madrid (ICMM-CSIC).
 * 2008 - 2013
 * Suficiencia investigadora 04/08/2010
 ## Research funding as well as leadership and supervision
+Estrategia IKUR 2030
+
 Design, manufacturing and control of INterfaces in THERMally conductive polymer nanocomposites
 * From 2015-03-01 to 2020-02-29, ongoing project
   * Project ID: 639495
