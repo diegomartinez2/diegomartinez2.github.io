@@ -54,7 +54,7 @@ Operating Systems:
 * BSD, Windows advanced user level.
 
 Workshops:
-* CodeRefinery Workshop (March 2022)
+* CodeRefinery Workshop (22-24, 29-31 March 2022)
 
 ## Linguistic skills
 Spanish (Castellano). Native.
