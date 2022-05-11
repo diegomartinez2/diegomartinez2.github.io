@@ -6,7 +6,7 @@ Gender: Male
 
 Date of writing the CV: 2022-03-30
 
-Telephone: (+34)943481300 !change this
+Telephone: (+39)3349588994
 
 E-mail: diegomartinez2@yahoo.es, diego.martinez@polito.it, diego.martinez@ehu.eus
 
