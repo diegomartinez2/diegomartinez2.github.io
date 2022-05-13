@@ -137,6 +137,7 @@ Spanish Ministry for Research and Culture
 * Formerly integrated in the group ”Física de la Materia Condensada y Nanotecnología” of the University of Oviedo. (http://condmat.uniovi.es).
 * Formerly integrated in the group ”Teoría y Simulación de Materiales” of the ”Instituto de Ciencia de Materiales de Madrid” (ICMM-CSIC).
 * Formerly integrated in Alberto Fina's group DISAT of the Politecnico di Torino for the project “Modellazione Computazionale di Interfacce Termiche in Materiali Nanocompositi” (InTherm).
+* Integrated in Ion Errea's group of the Centro de Física de Materiales (CSIC) at the UPV. (https://cfm.ehu.es/errealab/)
 
 ## Scientific and societal impact of research
 European Materials Research Society (Spring Meeting 2018) (June 18-22, 2018, Strasbourg, France) 
