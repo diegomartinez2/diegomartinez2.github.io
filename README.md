@@ -17,7 +17,7 @@ Citizenship: Spanish
 
 Current residence: Portuetxe Kalea 35, 20018, San Sebastian, Guipuzcoa, Spain.
 ## Education and degrees awarded
-Doctor, Universidad de Oviedo, Oviedo, Asturias, Spain. Degree of Doctor (Cum Laude) of condensed matter physics and nanotechnology, 14/10/2014.
+Doctor, Universidad de Oviedo, Oviedo, Asturias, Spain. Degree of Doctor (Cum Laude) of condensed matter physics and nanotechnology, [Thesis defence 24/09/2014].
 * International Doctor
 * Instituto de Ciencia de los Materiales de Madrid & Universidad de Oviedo • Title of the thesis: ”Simulation of vibrational properties of nanostructures”
 * Adviser: Professor Víctor R. Velasco R.
