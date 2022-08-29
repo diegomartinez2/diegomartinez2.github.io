@@ -140,6 +140,8 @@ Spanish Ministry for Research and Culture
 * Integrated in Ion Errea's group of the Centro de Física de Materiales (CSIC) at the UPV. (https://cfm.ehu.es/errealab/)
 
 ## Scientific and societal impact of research
+Attendance to the Psi-K 2022 conference (August 22-25, 2022, SwissTech Convention Center, EPFL, Lausanne, Switzerland)
+
 European Materials Research Society (Spring Meeting 2018) (June 18-22, 2018, Strasbourg, France) 
 * Poster presentation N 2.9 “Calculation of Phonon transport through molecular junctions between graphene sheets via Green's functions technique through DFTB”
 European Materials Research Society (Spring Meeting 2017) (May 22-26, 2017, Strasbourg, France) 
