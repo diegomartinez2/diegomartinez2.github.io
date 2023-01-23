@@ -206,6 +206,9 @@ ResearcherID: P-6750-2015
 ResearchGate
 https://www.researchgate.net/profile/Diego-Martinez-Gutierrez
 
+ORCID ID
+https://orcid.org/0000-0002-8291-5268
+
 ## A brief account of research merits
 * Micromagnetic simulation of amorphous alloy thin films with uniaxial anisotropy.
 * Study of vibrational properties in nanostructures and multilayer systems using computational techniques based on both continuum models and discrete molecular dynamics models.
