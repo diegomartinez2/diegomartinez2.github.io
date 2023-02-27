@@ -144,8 +144,10 @@ Attendance to the Psi-K 2022 conference (August 22-25, 2022, SwissTech Conventio
 
 European Materials Research Society (Spring Meeting 2018) (June 18-22, 2018, Strasbourg, France) 
 * Poster presentation N 2.9 “Calculation of Phonon transport through molecular junctions between graphene sheets via Green's functions technique through DFTB”
+
 European Materials Research Society (Spring Meeting 2017) (May 22-26, 2017, Strasbourg, France) 
 * Poster presentation U 3.15 “Thermal bridging of graphene nanosheets via covalent functionalization: Calculation of interfacial conductance via MD and DFTB”
+
 Assistance as a listener to the III meeting of the network of nanoscience (III reunión de la red de NanoCiencia) (November 26-28, 2003).
 
 Assistance as a listener to “Trends in Nanotechnology: TNT 2005” (August 27 – September 2, 2005, Oviedo, Spain).
