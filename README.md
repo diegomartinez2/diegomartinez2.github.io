@@ -172,34 +172,34 @@ Experience in magnetic characterization by Transverse-Kerr effect (University of
 
 Excellent ability to adapt and understand new topics.
 ## List of publications
-Martinez-Gutierrez, D. and Velasco V. R. Acoustic waves of GaN nitride nanowires 
+Martinez-Gutierrez, D. and Velasco V. R. *Acoustic waves of GaN nitride nanowires* 
 * doi:10.1016/j.susc.2010.09.017 
 * Surface Science, 605 (2011) 24–31
 
-D. Martínez-Gutiérrez, V. R. Velasco General expressions for the dispersion relation of acoustic radial (breathing) modes in cylinders and cylindrical shells of general anisotropic crystals
+D. Martínez-Gutiérrez, V. R. Velasco *General expressions for the dispersion relation of acoustic radial (breathing) modes in cylinders and cylindrical shells of general anisotropic crystals*
 * arXiv:1207.0379v1 [cond-mat.mtrl-sci] (Submitted on 2 Jul 2012)
 
-D. Martínez-Gutiérrez, V. R. Velasco Acoustic waves in (0001) III-N and MgO/ZnO superlattices
+D. Martínez-Gutiérrez, V. R. Velasco *Acoustic waves in (0001) III-N and MgO/ZnO superlattices*
 * doi:10.1016/j.susc.2012.11.013 
 * Surface Science 609 (2013) 119–128
 
-D. Martínez-Gutiérrez, V. R. Velasco Acoustic breathing mode frequencies in cylinders, cylindrical shells and composite cylinders of general anisotropic crystals. Application to nanowires. 
+D. Martínez-Gutiérrez, V. R. Velasco *Acoustic breathing mode frequencies in cylinders, cylindrical shells and composite cylinders of general anisotropic crystals. Application to nanowires.* 
 * doi:10.1016/j.physe.2013.05.025 
 * Physica E: Low-dimensional Systems and Nanostructures (2013)
 
-D. Martínez-Gutiérrez, V. R. Velasco Transverse acoustic waves in piezoelectric ZnO/MgO and GaN/AlN Fibonacci-periodic superlattices
+D. Martínez-Gutiérrez, V. R. Velasco *Transverse acoustic waves in piezoelectric ZnO/MgO and GaN/AlN Fibonacci-periodic superlattices*
 * doi:10.1016/j.susc.2014.01.020 
 * Surface Science 624 (2014) 58–69
 
-D. Martínez-Gutiérrez, V. R. Velasco SIMULATION OF VIBRATIONAL PROPERTIES OF NANOSTRUCTURES
+D. Martínez-Gutiérrez, V. R. Velasco *SIMULATION OF VIBRATIONAL PROPERTIES OF NANOSTRUCTURES*
 * https://www.educacion.gob.es/teseo/mostrarRef.do?ref=1105659 
 * http://digibuo.uniovi.es/dspace/handle/10651/29571
 
-D. Martínez-Gutiérrez, A. di Pierro, A. Pecchia, L. Medrano Sandonas, R. Gutierrez, G. Cuniberti, B. Mortazavi, M. Bernal, G. Saracco, A. Fina Thermal bridging of graphene nanosheets via covalent molecular junctions: a Non-Equilibrium Green’s Functions - Density Functional Tight-Binding study
+D. Martínez-Gutiérrez, A. di Pierro, A. Pecchia, L. Medrano Sandonas, R. Gutierrez, G. Cuniberti, B. Mortazavi, M. Bernal, G. Saracco, A. Fina *Thermal bridging of graphene nanosheets via covalent molecular junctions: a Non-Equilibrium Green’s Functions - Density Functional Tight-Binding study*
 * doi: https: // doi.org / 10.1007 / s12274-019-2290-2
 * Nano Res. (2019) 12: 791
 
-Alessandro Di Pierro; Maria Mar Bernal; Diego Martinez; Bohayra Mortazavi; Guido Saracco; Alberto Fina Aromatic molecular junctions between graphene sheets: a Molecular Dynamics screening for enhanced thermal conductance
+Alessandro Di Pierro; Maria Mar Bernal; Diego Martinez; Bohayra Mortazavi; Guido Saracco; Alberto Fina *Aromatic molecular junctions between graphene sheets: a Molecular Dynamics screening for enhanced thermal conductance*
 * Submitted to CARBON (accepted 10 May 2019)
 
 ResearcherID: P-6750-2015
