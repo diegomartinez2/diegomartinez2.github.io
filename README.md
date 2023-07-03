@@ -99,7 +99,12 @@ Ph.D. at Instituto de Ciencia de los Materiales de Madrid (ICMM-CSIC).
 * Study of vibrational properties in nanostructures and multilayer systems using computational techniques based on both continuum models and discrete molecular dynamics models.
 * 2008 - 2013
 * Suficiencia investigadora 04/08/2010
+## Teaching experience
+* Summer School on the Calculation of Ionic Quantum and Anharmonic Effects with the Stochastic Self-Consistent Harmonic Approximation (SSCHA school 2023)
+* Lecture / Conférence: Hands-on sessions "First SSCHA simulations: free energy and structural relaxations", "Calculations of second-order phase transitions with the SSCHA"
 ## Research funding as well as leadership and supervision
+Organizer of the Summer School on the Calculation of Ionic Quantum and Anharmonic Effects with the Stochastic Self-Consistent Harmonic Approximation (SSCHA school 2023)
+
 Estrategia IKUR 2030
 
 Design, manufacturing and control of INterfaces in THERMally conductive polymer nanocomposites
