@@ -205,7 +205,8 @@ D. Martínez-Gutiérrez, A. di Pierro, A. Pecchia, L. Medrano Sandonas, R. Gutie
 * Nano Res. (2019) 12: 791
 
 Alessandro Di Pierro; Maria Mar Bernal; Diego Martinez; Bohayra Mortazavi; Guido Saracco; Alberto Fina *Aromatic molecular junctions between graphene sheets: a Molecular Dynamics screening for enhanced thermal conductance*
-* Submitted to CARBON (accepted 10 May 2019)
+* doi: https://doi.org/10.1039/C9RA00894B 
+* RSC Adv., 2019,9, 15573-15581
 
 ResearcherID: P-6750-2015
 * URL: http://www.researcherid.com/rid/P-6750-2015
