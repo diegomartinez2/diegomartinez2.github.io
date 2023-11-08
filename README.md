@@ -16,6 +16,7 @@ Date and place of birth: 1976-03-23, Oviedo, Asturias, Spain
 Citizenship: Spanish
 
 Current residence: Portuetxe Kalea 35, 20018, San Sebastian, Guipuzcoa, Spain.
+
 ## Education and degrees awarded
 Doctor, Universidad de Oviedo, Oviedo, Asturias, Spain. Degree of Doctor (Cum Laude) of condensed matter physics and nanotechnology, [Thesis defence 24/09/2014].
 * International Doctor
@@ -42,6 +43,7 @@ Research Work, ”Simulación micromagnética de láminas delgadas de aleaciones
 In possession of the Diploma of Advanced Studies (D.E.A.)
 
 Bachelor’s degree, Physics (Física fundamental), 2005
+
 ## Other education and training, qualifications and skills
 Programming languages:
 * FORTRAN, Python, C, UNIX shell scripting, GNU make, Maxima, Mathematica, MathLab, PAW++.
@@ -75,6 +77,7 @@ Sede di Alessandria. Viale Teresa Michel, 5 15121 Alessandria. ITALIA
 * Post-Doc Assegnista di Ricerca (Research Assistant) From September 16, 2016 to September 15, 2018.
 * CHIM/07 - Fondamenti chimici delle tecnologie; (Area 0003 - Scienze chimiche).
 * Adviser/Supervisor: Alberto Fina
+
 ## Current position
 Post-Doctorate. From March 2022
 
@@ -86,6 +89,7 @@ Paseo Manuel de Lardizabal, 5 – E-20018 Donostia – San Sebastián (Gipuzkoa)
 * Postdoctoral Researcher From March 1 2022
 * Quantum Theory of Materials
 * Adviser: Ion Errea
+
 ## Previous work experience
 Postdoctoral position at the Politecnico di Torino.
 * “Modellazione Computazionale di Interfacce Termiche in Materiali Nanocompositi”
@@ -99,9 +103,11 @@ Ph.D. at Instituto de Ciencia de los Materiales de Madrid (ICMM-CSIC).
 * Study of vibrational properties in nanostructures and multilayer systems using computational techniques based on both continuum models and discrete molecular dynamics models.
 * 2008 - 2013
 * Suficiencia investigadora 04/08/2010
+
 ## Teaching experience
 * Summer School on the Calculation of Ionic Quantum and Anharmonic Effects with the Stochastic Self-Consistent Harmonic Approximation (SSCHA school 2023)
 * Lecture / Conférence: Hands-on sessions "First SSCHA simulations: free energy and structural relaxations", "Calculations of second-order phase transitions with the SSCHA"
+
 ## Research funding as well as leadership and supervision
 Organizer of the Summer School on the Calculation of Ionic Quantum and Anharmonic Effects with the Stochastic Self-Consistent Harmonic Approximation (SSCHA school 2023)
 
@@ -176,6 +182,7 @@ Experience with Ultra-High Vacuum equipment (University of Oviedo).
 Experience in magnetic characterization by Transverse-Kerr effect (University of Oviedo).
 
 Excellent ability to adapt and understand new topics.
+
 ## List of publications
 Martinez-Gutierrez, D. and Velasco V. R. *Acoustic waves of GaN nitride nanowires* 
 * doi:10.1016/j.susc.2010.09.017 
