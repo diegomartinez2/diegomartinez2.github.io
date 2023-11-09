@@ -230,7 +230,7 @@ https://orcid.org/0000-0002-8291-5268
 * Micromagnetic simulation of amorphous alloy thin films with uniaxial anisotropy.
 * Study of vibrational properties in nanostructures and multilayer systems using computational techniques based on both continuum models and discrete molecular dynamics models.
 * Phonon transport through molecular bridges via non-equilibrium Green’s functions method and DFTB.
-* Vibrational properties with quantum and anharmonic effects via stocastic self-consistent harmonic approximation.
+* Vibrational properties with quantum and anharmonic effects via stochastic self-consistent harmonic approximation.
 
 ## Contact details of persons available for recommendation
 Dr. Javier I. Díaz (e-mail: javidiaz@condmat.uniovi.es; phone: +34 985 10 3311)
