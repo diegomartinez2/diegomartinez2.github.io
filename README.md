@@ -105,7 +105,7 @@ Ph.D. at Instituto de Ciencia de los Materiales de Madrid (ICMM-CSIC).
 * Suficiencia investigadora 04/08/2010
 
 ## Teaching experience
-* Summer School on the Calculation of Ionic Quantum and Anharmonic Effects with the Stochastic Self-Consistent Harmonic Approximation (SSCHA school 2023)
+* Summer School on the Calculation of Ionic Quantum and Anharmonic Effects with the Stochastic Self-Consistent Harmonic Approximation ([SSCHA school 2023](http://sscha.eu/Schools/2023/home/))
 * Lecture / Conférence: Hands-on sessions "First SSCHA simulations: free energy and structural relaxations", "Calculations of second-order phase transitions with the SSCHA"
 
 ## Research funding as well as leadership and supervision
