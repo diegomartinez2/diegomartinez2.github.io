@@ -105,8 +105,8 @@ Ph.D. at Instituto de Ciencia de los Materiales de Madrid (ICMM-CSIC).
 * Suficiencia investigadora 04/08/2010
 
 ## Teaching experience
-* Summer School on the Calculation of Ionic Quantum and Anharmonic Effects with the Stochastic Self-Consistent Harmonic Approximation ([SSCHA school 2023](http://sscha.eu/Schools/2023/home/))
-* Lecture / Conférence: Hands-on sessions ["First SSCHA simulations: free energy and structural relaxations"](https://www.youtube.com/watch?v=3cE6Sw_7hSk), ["Calculations of second-order phase transitions with the SSCHA"](https://www.youtube.com/watch?v=JWQyO-EACVw)
+* Summer School on the Calculation of Ionic Quantum and Anharmonic Effects with the Stochastic Self-Consistent Harmonic Approximation ([SSCHA school 2023](://sscha.eu/Schools/2023/home/))
+* Lecture / Conférence: Hands-on sessions ["First SSCHA simulations: free energy and structural relaxations"](s://www.youtube.com/watch?v=3cE6Sw_7hSk), ["Calculations of second-order phase transitions with the SSCHA"](s://www.youtube.com/watch?v=JWQyO-EACVw)
 
 ## Research funding as well as leadership and supervision
 Organizer of the Summer School on the Calculation of Ionic Quantum and Anharmonic Effects with the Stochastic Self-Consistent Harmonic Approximation (SSCHA school 2023)
@@ -145,10 +145,10 @@ Spanish Ministry for Research and Culture
 2008 - 2012: PhD Fellowship
 
 ## Other academic merits
-* Formerly integrated in the group ”Física de la Materia Condensada y Nanotecnología” of the University of Oviedo. (http://condmat.uniovi.es).
+* Formerly integrated in the group ”Física de la Materia Condensada y Nanotecnología” of the University of Oviedo. [(http://condmat.uniovi.es)](http://condmat.uniovi.es).
 * Formerly integrated in the group ”Teoría y Simulación de Materiales” of the ”Instituto de Ciencia de Materiales de Madrid” (ICMM-CSIC).
 * Formerly integrated in Alberto Fina's group DISAT of the Politecnico di Torino for the project “Modellazione Computazionale di Interfacce Termiche in Materiali Nanocompositi” (InTherm).
-* Integrated in Ion Errea's group of the Centro de Física de Materiales (CSIC) at the UPV. (https://cfm.ehu.es/errealab/)
+* Integrated in Ion Errea's group of the Centro de Física de Materiales (CSIC) at the UPV. [(https://cfm.ehu.es/errealab/)](https://cfm.ehu.es/errealab/)
 
 ## Scientific and societal impact of research
 Attendance to the Psi-K 2022 conference (August 22-25, 2022, SwissTech Convention Center, EPFL, Lausanne, Switzerland)
@@ -183,7 +183,7 @@ Experience in magnetic characterization by Transverse-Kerr effect (University of
 
 Excellent ability to adapt and understand new topics.
 
-GitHub Experience: Contributions to SSCHA code and Open Source Contributions to other codes including the “VASP-phonopy-SSCHA” code. (https://github.com/diegomartinez2)
+GitHub Experience: Contributions to SSCHA code and Open Source Contributions to other codes including the “VASP-phonopy-SSCHA” code. [(https://github.com/diegomartinez2)](https://github.com/diegomartinez2)
 
 ## List of publications
 Martinez-Gutierrez, D. and Velasco V. R. *Acoustic waves of GaN nitride nanowires* 
