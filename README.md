@@ -8,7 +8,7 @@ Date of writing the CV: 2023-11-09
 
 Telephone: +34 943 01 8715 
 
-E-mail: diegomartinez2@yahoo.es, diego.martinez@polito.it, diego.martinez@ehu.eus
+E-mail: diegomartinez2@yahoo.es, diego.martinez@ehu.eus
 
 ## Date and place of birth, nationality, current residence
 Date and place of birth: 1976-03-23, Oviedo, Asturias, Spain
