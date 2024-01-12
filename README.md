@@ -114,7 +114,7 @@ Organizer of the Summer School on the Calculation of Ionic Quantum and Anharmoni
 Estrategia IKUR 2030
 
 Design, manufacturing and control of INterfaces in THERMally conductive polymer nanocomposites
-* From 2015-03-01 to 2020-02-29, ongoing project
+* From 2015-03-01 to 2020-02-29
   * Project ID: 639495
   * Funded under:  H2020-EU.1.1. - EXCELLENT SCIENCE - European Research Council (ERC)
 
