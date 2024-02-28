@@ -185,7 +185,7 @@ Excellent ability to adapt and understand new topics.
 
 GitHub Experience: Contributions to SSCHA code and Open Source Contributions to other codes including the “VASP-phonopy-SSCHA” code. [(https://github.com/diegomartinez2)](https://github.com/diegomartinez2)
 
-A.I. Experience: Writting and testing python code with Huggingface models. Examples on LLMs and SD. Also experience in Machine Learning potentials for scientific calculations using VASP ML and GAP.
+A.I. Experience: Usage of Machine Learning potentials for scientific calculations using VASP ML and GAP (for anharmonic calculations on phonon renormalization and phonon transport with SSCHA). Also writting and testing python code with Huggingface models. Examples on LLMs and SD. 
 
 ## List of publications
 Martinez-Gutierrez, D. and Velasco V. R. *Acoustic waves of GaN nitride nanowires* 
