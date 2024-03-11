@@ -149,6 +149,8 @@ Spanish Ministry for Research and Culture
 * Formerly integrated in the group ”Teoría y Simulación de Materiales” of the ”Instituto de Ciencia de Materiales de Madrid” (ICMM-CSIC).
 * Formerly integrated in Alberto Fina's group DISAT of the Politecnico di Torino for the project “Modellazione Computazionale di Interfacce Termiche in Materiali Nanocompositi” (InTherm).
 * Integrated in Ion Errea's group of the Centro de Física de Materiales (CSIC) at the UPV. [(https://cfm.ehu.es/errealab/)](https://cfm.ehu.es/errealab/)
+* Summer School: "Summer School on the Calculation of Ionic Quantum and Anharmonic Effects with the Stochastic Self-Consistent Harmonic Approximation (SSCHA school 2023)" (26 Jun. - 30 Jun., 2023)
+* Summer school: "Navigating the scientific journey: career and societal impact" (05 Oct., 2023)
 
 ## Scientific and societal impact of research
 Attendance to the Psi-K 2022 conference (August 22-25, 2022, SwissTech Convention Center, EPFL, Lausanne, Switzerland)
