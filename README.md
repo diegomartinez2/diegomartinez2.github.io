@@ -6,7 +6,7 @@ Gender: Male
 
 Date of writing the CV: 2023-11-09
 
-Telephone: +34 943 01 8715 
+Telephone: +34 658 49 6424 
 
 E-mail: diegomartinez2@yahoo.es, diego.martinez@ehu.eus
 
@@ -79,7 +79,7 @@ Sede di Alessandria. Viale Teresa Michel, 5 15121 Alessandria. ITALIA
 * Adviser/Supervisor: Alberto Fina
 
 ## Current position
-Post-Doctorate. From March 2022
+Post-Doctorate. From March 2022 to March 2024
 
 Universidad del Pais Vasco, CSIC
 
