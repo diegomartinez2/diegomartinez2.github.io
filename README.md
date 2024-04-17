@@ -66,19 +66,8 @@ English spoken and written at a high level (scientific and colloquial English).
 Italian spoken and written at basic level.
 
 Swedish spoken and written at beginner level.
+
 ## Last position
-Post-Doctorate.    September 2016 - September 2018
-
-Politecnico di Torino,
-
-Dipartimento Scienza Applicata e Tecnologia (DISAT)
-
-Sede di Alessandria. Viale Teresa Michel, 5 15121 Alessandria. ITALIA
-* Post-Doc Assegnista di Ricerca (Research Assistant) From September 16, 2016 to September 15, 2018.
-* CHIM/07 - Fondamenti chimici delle tecnologie; (Area 0003 - Scienze chimiche).
-* Adviser/Supervisor: Alberto Fina
-
-## Current position
 Post-Doctorate. From March 2022 to March 2024
 
 Universidad del Pais Vasco, CSIC
@@ -91,10 +80,12 @@ Paseo Manuel de Lardizabal, 5 – E-20018 Donostia – San Sebastián (Gipuzkoa)
 * Adviser: Ion Errea
 
 ## Previous work experience
-Postdoctoral position at the Politecnico di Torino.
+Postdoctoral position at the Politecnico di Torino. Dipartimento Scienza Applicata e Tecnologia (DISAT)
 * “Modellazione Computazionale di Interfacce Termiche in Materiali Nanocompositi”
 * Theoretical study of physical properties of low dimensional thermal transport.
 * Phonon transport through molecular bridges via non-equilibrium Green’s functions method and DFTB
+* CHIM/07 - Fondamenti chimici delle tecnologie; (Area 0003 - Scienze chimiche).
+* Adviser/Supervisor: Dr. Alberto Fina
 * September 2016 - September 2018
 
 Ph.D. at Instituto de Ciencia de los Materiales de Madrid (ICMM-CSIC).
