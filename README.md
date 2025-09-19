@@ -4,7 +4,7 @@ Name: Martínez Gutiérrez, Diego
 
 Gender: Male
 
-Date of writing the CV: 2023-11-09
+Date of writing the CV: 2025-09-19
 
 Telephone: +34 658 49 6424 
 
