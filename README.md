@@ -67,6 +67,18 @@ Italian spoken and written at basic level.
 
 Swedish spoken and written at beginner level.
 
+## Current position
+Post-Doctorate. From May 2025 to May 2026
+
+Università degli Studi di Cagliari
+
+Complesso Universitario di Monserrato 
+S.P. Monserrato-Sestu Km 0,700, I-09042 Monserrato (CA) – ITALY
+
+* Postdoctoral Researcher
+* Dipartimento di Fisica
+* Adviser: Claudio Melis
+
 ## Last position
 Post-Doctorate. From March 2022 to March 2024
 
