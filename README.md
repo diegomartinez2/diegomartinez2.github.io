@@ -70,6 +70,9 @@ Swedish spoken and written at beginner level.
 ## Current position
 Post-Doctorate. From May 2025 to May 2026
 
+"Progettazione e Sviluppo di un Potenziale Interatomico per Metal-Organic Frameworks Tramite Tecniche di Machine Learning".
+"Design and Development of an Interatomic Potential for Metal-Organic Frameworks Using Machine Learning Techniques".
+
 Università degli Studi di Cagliari
 
 Complesso Universitario di Monserrato 
@@ -238,6 +241,7 @@ https://orcid.org/0000-0002-8291-5268
 * Study of vibrational properties in nanostructures and multilayer systems using computational techniques based on both continuum models and discrete molecular dynamics models.
 * Phonon transport through molecular bridges via non-equilibrium Green’s functions method and DFTB.
 * Vibrational properties with quantum and anharmonic effects via stochastic self-consistent harmonic approximation.
+* Design and Development of an Interatomic Potential for Metal-Organic Frameworks Using Machine Learning Techniques.
 
 ## Contact details of persons available for recommendation
 Dr. Javier I. Díaz (e-mail: javidiaz@condmat.uniovi.es; phone: +34 985 10 3311)
