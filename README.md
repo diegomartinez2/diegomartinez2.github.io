@@ -15,7 +15,7 @@ Date and place of birth: 1976-03-23, Oviedo, Asturias, Spain
 
 Citizenship: Spanish
 
-Current residence: Zamora 13, 33010, Colloto, Oviedo, Asturias, Spain.
+Current residence: Barbagia 9, 09121, Cagliari, Sardinia, Italy.
 
 ## Education and degrees awarded
 Doctor, Universidad de Oviedo, Oviedo, Asturias, Spain. Degree of Doctor (Cum Laude) of condensed matter physics and nanotechnology, [Thesis defence 24/09/2014].
