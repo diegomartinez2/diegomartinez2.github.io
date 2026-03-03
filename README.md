@@ -154,7 +154,8 @@ Spanish Ministry for Research and Culture
 * Formerly integrated in the group ”Física de la Materia Condensada y Nanotecnología” of the University of Oviedo. [(http://condmat.uniovi.es)](http://condmat.uniovi.es).
 * Formerly integrated in the group ”Teoría y Simulación de Materiales” of the ”Instituto de Ciencia de Materiales de Madrid” (ICMM-CSIC).
 * Formerly integrated in Alberto Fina's group DISAT of the Politecnico di Torino for the project “Modellazione Computazionale di Interfacce Termiche in Materiali Nanocompositi” (InTherm).
-* Integrated in Ion Errea's group of the Centro de Física de Materiales (CSIC) at the UPV. [(https://cfm.ehu.es/errealab/)](https://cfm.ehu.es/errealab/)
+* Formerly integrated in Ion Errea's group of the Centro de Física de Materiales (CSIC) at the UPV. [(https://cfm.ehu.es/errealab/)](https://cfm.ehu.es/errealab/)
+* Integrated in the group "ThEory and MOdeling of NAnomaterials (TEMONA)" in the departament of Physics at the University of Cagliary [(https://temona-unica.github.io/temona/index.html)](https://temona-unica.github.io/temona/index.html)
 * Summer School: "Summer School on the Calculation of Ionic Quantum and Anharmonic Effects with the Stochastic Self-Consistent Harmonic Approximation (SSCHA school 2023)" (26 Jun. - 30 Jun., 2023)
 * Summer school: "Navigating the scientific journey: career and societal impact" (05 Oct., 2023)
 
